@@ -1,6 +1,0 @@
-langchain==0.0.335
-langchain-community==0.0.29
-faiss-cpu
-pypdf
-streamlit
-sentence-transformers
