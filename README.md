@@ -1,1 +1,1 @@
-# rag-chat-with-pdfs
+# RAG-based Chat with PDF Documents
